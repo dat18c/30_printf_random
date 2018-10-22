@@ -3,7 +3,7 @@ Brug af printf til formatering af print.
 ``````
 System.out.printf("formateringsstreng", paramter1, parameter2, ..., parametern);
 ``````
-I formateringsstrengen bruges placeholers, som erstattes af paramtrene. %d for integers, %f for decimaltal og %s for strenge.
+I formateringsstrengen bruges placeholders, som erstattes af paramtrene. %d for integers, %f for decimaltal og %s for strenge.
 
 Man kan angive hvor mange positioner et tal skal bruge. Der foranstilles mellemrum, så tallet står højrejusteret.
 
